@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CabifyMobileChallenge</string>
+    <string name="cart">CART</string>
+    <string name="add_to_cart">Add to Cart</string>
+</resources>
